@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jaiden!👋
 
-<!--
-**jaidentwyman/jaidentwyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Florida interested in software engineering, full-stack development, and AI systems.
 
-Here are some ideas to get you started:
+I currently work at Fokis Mechanical, where I've designed and deployed an AI-powered application used in daily business operations. I enjoy building software that solves real problems and learning more about the systems and architecture behind it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm interested in
+- Full-stack development
+- AI agents and intelligent software systems
+- Software architecture and systems programming
+
+### Technologies I've worked with
+**Languages:** Python, C++, TypeScript, JavaScript, SQL
+
+**Frameworks & Tools:** FastAPI, React, Node.js, PostgreSQL, Docker, GitHub Actions
+
+### Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/jaidentwyman/)
