@@ -1,4 +1,4 @@
-# Hi, I'm Jaiden!👋
+# Hi👋
 
 I'm a Computer Science student at the University of Florida interested in software engineering, full-stack development, and AI systems.
 
